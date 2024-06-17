@@ -1,0 +1,56 @@
+{
+  "name": "𝐊𝐄𝐈𝐙𝐀𝐇𝐃𝐎𝐇𝐍-𝐌𝐃",
+  "description": " Whatsapp bot build by 𝐃𝐎𝐇𝐍.",
+  "keywords": [
+    "whatsapp bot","KEIZAHDOHN MD","keizadohn-md-github","dohn-tech","keiza","KEIZAHDOHN bot"
+  ],
+  "repository": "https://github.com/justdon312/KEIZAHDOHN-MD",
+  "logo": "https://github.com/justdon312/KEIZAHDOHN-MD",
+  "stack": "container",
+  "env": {
+       "DATABASE_URL": {
+      "description": "your mongodb database url optional",
+      "required": false,
+      "value": ""
+      },
+     "MODE": {
+      "description": "mode public or private",
+      "required": true,
+      "value": "public"
+       },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": false,
+      "value": "false"
+       },
+    "statusview": {
+      "description": "make it true if you want bot to view status",
+      "required": false,
+      "value": ""
+    },
+    "autoRead": {
+      "description": "make it true if you want bot to read messages",
+      "required": false,
+      "value": ""
+    },
+    "SESSION_ID": {
+      "description": "your session id",
+      "required": true,
+      "value": ""
+    }
+    },
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ]
+}
