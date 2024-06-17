@@ -11,9 +11,9 @@ global.owner = [
 ]
 
 //global.pairingNumber = "" //put your bot number here
-global.mods = ['254783853522'] 
-global.prems = ['254783853522', '254783853522', '254783853522']
-global.allowed = ['254783853522']
+global.mods = ['254748387615'] 
+global.prems = ['254748387615', '254783853522', '254748387615']
+global.allowed = ['254748387615']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -37,16 +37,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝐊𝐄𝐈𝐙𝐀𝐇𝐃𝐎𝐇𝐍-𝐌𝐃'
-global.princebot = '𝐊𝐄𝐈𝐙𝐀𝐇𝐃𝐎𝐇𝐍-𝐌𝐃'
-global.packname = '𝐊𝐄𝐈𝐙𝐀𝐇' 
-global.author = '𝐃𝐎𝐇𝐍' 
+global.botname = '𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃'
+global.princebot = '𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃'
+global.packname = '𝐊𝐄𝐈𝐓𝐇 𝐊𝐄𝐈𝐙𝐙𝐀𝐇' 
+global.author = '☠' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VahhyIm1noz80Dybyp0a'
+global.princegp = 'https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47'
 global.menuvid = 'https://i.imgur.com/0UK6D3b.mp4'
-global.Princesc = 'https://github.com/justdon312/KEIZAHDOHN-MD' 
-global.princeyt = 'https://chat.whatsapp.com/IhlJkw6hl4N80B1bxyfMmo'
-global.Princelog = 'https://telegra.ph/file/fa4152408c8d224dc5d3e.jpg'
+global.Princesc = 'https://github.com/Keithkeizzah/HUNCHO-MDV1' 
+global.princeyt = 'https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47'
+global.Princelog = 'https://telegra.ph/file/214f9e88aa2adb92439b7.jpg'
 global.thumb = fs.readFileSync('./Assets/wasi.png')
 
 global.wait = '*♻️ _ʟᴏᴅɪɴɢ ᴘʟᴢ ᴡᴀɪᴛ ᴅᴇᴀʀ _*\n*▰▰▰▱▱▱▱▱*'
