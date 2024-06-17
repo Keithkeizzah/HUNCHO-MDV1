@@ -1,73 +1,128 @@
-<p align="center">  
-  <a href="https://youtu.be/@wasitech1">
-    <img alt="Dohn" height="300" src="https://telegra.ph/file/fa4152408c8d224dc5d3e.jpg">
-    <h1 align="center">𝐊𝐄𝐈𝐙𝐀𝐃𝐎𝐇𝐍 𝐌𝐃</h1>
-  </a>
-</p>
-<p align="center">
-<a href="https://github.com/justdon312"><img title="Author" src="https://img.shields.io/badge/KEIZAHDOHN-MD-black?style=for-the-badge&logo=telegram"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/UNIQUE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/UNIQUE-MD?&style=social"></a>
-<a href="https://github.com/justdon312/KEIZAHDOHN-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/UNIQUE-MD?style=social"></a>
-<a href="https://github.com/Itxxwasi/UNIQUE-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/UNIQUE-MD?label=Watching&style=social"></a>
-<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FItxxwasi%2FUNIQUE-MD.svg?type=shield"/></a>
-</p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br>
 
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+      
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝐇𝐔𝐍𝐂𝐇𝐎_𝐌𝐃;𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐁𝐎𝐓;𝐂𝐑𝐄𝐀𝐓𝐄𝐃+BY+𝐊𝐄𝐈𝐓𝐇𝐊𝐄𝐈𝐙𝐙𝐀𝐇" alt="Typing SVG" /></a>
+  </p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
-<h1 align="center">📍DOHN TECH📍</h1>
-
-#### 🪩 To Change the owner number click here [Config](https://github.com/justdon312/KEIZAHDOHN-MD/blob/main/config.js#L8)🪩
-
-#### SETUP
-
-1. Fork the repo
-    <br>
-<a href='https://github.com/Itxxwasi/UNIQUE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<p align="center"> HUNCHO MD💥, A Simple WhatsApp user BOT, Created by Keith Tech.
+</p>
 
 
 
-2. Get Session ID (Server 1)
-   > For Indian users Connect to a usa Vpn while login
-    
-     <a href='https://pair-qr-wasi-md.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/214f9e88aa2adb92439b7.jpg" alt="01" border="0" /></a>                     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center">  SCAN SESSION </h1>
+ 
+
+  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
 
 
-3. Get Session ID (Server 2) (use this if server 1 Doesn't work)
-    <br>
-<a href='https://pair-qr-wasi-md.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+  <a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/"><img src="https://img.shields.io/badge/qr%20session%20code-orange" alt="𝐐𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+<a><img src='https://i.imgur.com/LyHc3i.gif'/></a>
+## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗠𝗘 𝗚𝗘𝗘
+## 𝐏𝐥𝐞𝐚𝐬𝐞 𝐣𝐨𝐢𝐧 𝐦𝐲 𝐜𝐡𝐚𝐧𝐧𝐞𝐥 𝐚𝐧𝐝 𝐠𝐞𝐭 𝐟𝐫𝐞𝐞 𝐜𝐜 𝐚𝐧𝐝 𝐮𝐩𝐝𝐚𝐭𝐞𝐬👇👇
 
 
-#### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/justdon312/KEIZAHDOHN-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=red&style=for-the-badge&logo=msi"></a>
-# <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=blue&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/justdon312/KEIZAHDOHN-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=yellow&style=for-the-badge&logo=msi"></a>
-# <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+  
 
----------
+   
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-###  <a href="https://github.com/justdon312"><img src="https://github.com/justdon312.png" width="250" height="250" alt="Itxx Me Wasi"/></a>
-### [FOLLOW DOHN ON GITHUB](https://github.com/justdon312)
-### EXTRA SET-UP
-### If you don't have mangodb you can use these public dB's
-#### MONGODB ARE NOT  REQUIRED 
+## 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗛𝗘 𝗢𝗪𝗡𝗘𝗥 𝗨𝗦𝗜𝗡𝗚 𝗧𝗛𝗘 𝗕𝗘𝗟𝗢𝗪 𝗕𝗨𝗧𝗧𝗢𝗡 𝗔𝗣𝗣
+
+<p align="left">
+  <a href="https://wa.me/254748387615?text=Hello%20Keith~tech%20...%20I%20need%20some%20help%20in%20huncho%20md">
+    <img align="centre" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
+
+   
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## STEPS TO DEPLOY YOUR BOT
 
 
-```
-mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
-```
-```
-mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority`
+1, <a href="https://github.com/Keithkeizzah/HUNCHO-MDV1/fork"><img src="https://img.shields.io/badge/Fork%20My%20Repository-blue" alt="Fork my repository" width="300"></a>
 
-```
-```
-
-mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority
-
-```
-
-###  [FOLLOW MY WHATSAPP CHANNLE](https://whatsapp.com/channel/0029VahhyIm1noz80Dybyp0a)
+2, TAP ON KEITH TECH APP DOWN THERE
 
 
 
+3, CONNECT TO WHATSAPP WITH PAIRING CODE OR QR
+
+
+
+4, TAP DEPLOY.., AND DEPLOY IT ON HEROKU ..Use Keith Tech App..
+
+## 𝐂𝐋𝐈𝐂𝐊 𝐎𝐍 HEROKU OR 𝐀𝐏𝐏 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘  𝐇𝐔𝐍𝐂𝐇𝐎 𝐌𝐃
+<h1 align="center">
+ 
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/keithkeizzah/HUNCHO-MDV1&template=https://github.com/keithkeizzah/HUNCHO-MDV1.git)***
+
+<br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+ <h1 align="center">
+
+***༒𝐓𝐀𝐏 𝐎𝐍 𝐓𝐇𝐈𝐒 𝐓𝐀𝐁 𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐊𝐄𝐈𝐓𝐇 𝐀𝐌𝐀𝐙𝐈𝐍𝐆 𝐀𝐏𝐏😊😊༒***
+
+
+  ***<p align="center"><a href="https://keithtech-session-bd5cfaec090b.herokuapp.com/">
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20KEITH%20TECH%20APP-white?style=for-the-badge&logo=Huncho" width="300" height="38.45"/></a></p>***
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+   
+  
+
+
+
+
+## Contributions
+
+
+Contributions to *HUNCHO-MD* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+## 𝐅𝐎𝐋𝐋𝐎𝐖 𝐓𝐇𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑👇
+
+<br/> <div align="center">
+[![github](https://github.com/github.png?size=100)](https://github.com/keithkeizzah)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+[![keithkeizzah GitHub stats](https://github-readme-stats.vercel.app/api?username=keithkeizzah&show_icons=true&theme=radical)](https://github.com/keithkeizzah)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+## License
+
+The *HUNCHO-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+Enjoy the diverse features of the *HUNCHO-MD*  to enhance your Whatsapp more enjoyable
+☣Powered by Keith Tech
+
+### Credits to:
+- [Bro France King](https://github.com/franceking1)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎:
+(𝐀𝐋𝐏𝐇𝐀)✞𝐆𝐎𝐃✞
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
