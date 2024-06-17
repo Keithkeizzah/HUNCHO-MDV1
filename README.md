@@ -119,7 +119,7 @@ Enjoy the diverse features of the *HUNCHO-MD*  to enhance your Whatsapp more enj
 ☣Powered by Keith Tech
 
 ### Credits to:
-- [Bro France King](https://github.com/franceking1)
+- [𝐀𝐋𝐌𝐈𝐆𝐇𝐓𝐘 𝐆𝐎𝐃😪](https://github.com/keithkeizzah)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### 𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎:
