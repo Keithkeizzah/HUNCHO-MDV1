@@ -1,11 +1,11 @@
 {
-  "name": "𝐊𝐄𝐈𝐙𝐀𝐇𝐃𝐎𝐇𝐍-𝐌𝐃",
-  "description": " Whatsapp bot build by 𝐃𝐎𝐇𝐍.",
+  "name": "𝐇𝐔𝐍𝐂𝐇𝐎-𝐌𝐃",
+  "description": " 𝐁𝐨𝐭 𝐢𝐬 𝐬𝐭𝐢𝐥𝐥 𝐮𝐧𝐝𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭",
   "keywords": [
-    "whatsapp bot","KEIZAHDOHN MD","keizadohn-md-github","dohn-tech","keiza","KEIZAHDOHN bot"
+    "whatsapp bot","HUNCHO MD","HUNCHO-md-github","Keith-tech","huncho","HUNCHO bot"
   ],
-  "repository": "https://github.com/justdon312/KEIZAHDOHN-MD",
-  "logo": "https://github.com/justdon312/KEIZAHDOHN-MD",
+  "repository": "https://github.com/Keithkeizzah/HUNCHO-MDV1",
+  "logo": "https://telegra.ph/file/214f9e88aa2adb92439b7.jpg",
   "stack": "container",
   "env": {
        "DATABASE_URL": {
